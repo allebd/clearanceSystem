@@ -1,1 +1,1 @@
-# A Clearance System for institution and organizations
+# A Clearance System for institutions and organizations
